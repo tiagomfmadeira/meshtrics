@@ -5,7 +5,7 @@
 
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/tiagomfmadeira/Meshtrics/blob/main/meshtrics_logo.png" width="550"><br>
+  <img src="https://github.com/tiagomfmadeira/Meshtrics/blob/main/assets/meshtrics_logo.png" width="550"><br>
   <b style="bold">Objective Quality Assessment of Textured 3D Meshes for 3D Reconstruction</b>
 </p>
 
